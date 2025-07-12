@@ -1,11 +1,22 @@
-title: JuHan's Portfolio
-description: 백엔드 개발자 박주한의 기술 블로그입니다.
+title: 💻 Portfolio
+
+description: "
+<br>반갑습니다. 👋🏻 <br>
+실전에 강한 개발자 박주한의 <br>
+포트폴리오 자료입니다. <br><br>
+
+<strong>Email.</strong>  pjh9447@gmail.com <br>
+<strong>Phone.</strong>  010-5115-2980"
+
+logo: /assets/img/my-official-photo.png
+
 show_downloads: false
 
 # google_analytics: UA-12345678-9
-logo: /assets/img/logo.png
+
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
   - jekyll-remote-theme
